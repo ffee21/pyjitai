@@ -1,0 +1,7 @@
+
+venv
+*.pyc
+*.whl
+pyjitai.egg-info/*
+.DS_Store
+build
